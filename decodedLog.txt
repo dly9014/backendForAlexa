@@ -1,0 +1,16 @@
+START RequestId: c1033c1d-173c-11e6-a35f-cbb61bfb17d9 Version: $LATEST
+2016-05-11T05:53:59.016Z	c1033c1d-173c-11e6-a35f-cbb61bfb17d9	backendEMC function was invoked
+2016-05-11T05:53:59.915Z	c1033c1d-173c-11e6-a35f-cbb61bfb17d9	message ID = 6036ef67-5748-4245-b5b7-0ea9b8e6bbbd
+2016-05-11T05:53:59.915Z	c1033c1d-173c-11e6-a35f-cbb61bfb17d9	message receipt = AQEBUdMXBMT9aWieCsSTdKC8X1FR4c/xiguLpoRgFeEv2c+UIT3wH8Bb4oHkhDYPzaZ+4RqR3aK4/XllyDmnNDUPPjCLx856xXzmAYRtWeXT2IHf3Z+RU0ljSXXGcFwMT77HgNMLGtbj7LDdOb8RzowgGP/pt1nkKiqn2GAqOg6Vz6m90u2u0YCtXmSSMO0fIrmc/bqsa+DYiSjJfU8tAFETPJOm5sELodIBcaKCVD2Bjhh9p9kF6hBbD6ojMBaIW4cNWD/dbS5bU1W6uljBmxgFpJZR9/Tg/vE/y11n8aQIlYO31SGEDeg5vlef9PyoWnaEtdF13glLLDra46SzHe+QdyMnfs14/hVKWW8auoqq9wUa9OXCoJ/R0LP9QKM6hF7j
+2016-05-11T05:53:59.915Z	c1033c1d-173c-11e6-a35f-cbb61bfb17d9	customer = EMC%20Corporation
+2016-05-11T05:54:00.215Z	c1033c1d-173c-11e6-a35f-cbb61bfb17d9	statusCode:  200
+2016-05-11T05:54:00.274Z	c1033c1d-173c-11e6-a35f-cbb61bfb17d9	retValue = 515707
+2016-05-11T05:54:00.575Z	c1033c1d-173c-11e6-a35f-cbb61bfb17d9	data = [object Object]
+2016-05-11T05:54:00.575Z	c1033c1d-173c-11e6-a35f-cbb61bfb17d9	data.ETag = 59ed388f33988e55746c065945e3f79b
+2016-05-11T05:54:00.995Z	c1033c1d-173c-11e6-a35f-cbb61bfb17d9	data: { ResponseMetadata: { RequestId: 'df3323bc-fbe8-5527-bf30-6c1030d09d6b' },
+  MD5OfMessageBody: '41cdbd1aebfd2944a091772416ac45eb',
+  MD5OfMessageAttributes: 'feabe7217f0a41799bdfd11b43c5d844',
+  MessageId: '52d2cc2b-7747-44b8-a1b2-31fdfd35f64f' }
+2016-05-11T05:54:01.158Z	c1033c1d-173c-11e6-a35f-cbb61bfb17d9	message ID: 52d2cc2b-7747-44b8-a1b2-31fdfd35f64f
+END RequestId: c1033c1d-173c-11e6-a35f-cbb61bfb17d9
+REPORT RequestId: c1033c1d-173c-11e6-a35f-cbb61bfb17d9	Duration: 2239.34 ms	Billed Duration: 2300 ms 	Memory Size: 128 MB	Max Memory Used: 34 MB	
